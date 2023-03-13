@@ -1,5 +1,7 @@
 ## Baseline code archive
-Basic code with toy datasets
-* Deep learning algorithms
+Basic code with toy datasets.
+
+* Deep Learning Algorithms
+* Machine Learning Algorithms
 * Tutorials
-* Useful functions (or not...)
+* Useful Functions (or not...)
